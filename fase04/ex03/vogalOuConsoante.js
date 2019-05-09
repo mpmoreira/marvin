@@ -3,5 +3,5 @@ function vogalOuConsoante(letra) {
  ||letra==="u"||letra==="A"||letra==="E"||letra==="I"||letra==="O")
  return "Vogal"
     else
-    return "consoante"
+    return "Consoante"
 }
