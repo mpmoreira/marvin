@@ -11,5 +11,5 @@ if (x==="U" || x==="u")
 return "uniform"
 
 else 
-return "false"
+return false
 }
