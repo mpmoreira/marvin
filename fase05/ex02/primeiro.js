@@ -1,3 +1,3 @@
 function primeiro(y) {
-    return y[1]
+    return y[0]
 }
